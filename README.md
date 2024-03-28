@@ -62,7 +62,7 @@
     
 <br>
 
-- **Integration Development**:
+- **Integration Development (ECM)**:
 
     ![IBM App Connect](https://img.shields.io/badge/IBM_App_Connect-%23327FC7.svg?style=for-the-badge&logo=ibm&logoColor=blue&color=%23eee)
     ![IBM MQ Explorer](https://img.shields.io/badge/IBM_MQ_Explorer-%23327FC7.svg?style=for-the-badge&logo=ibm&logoColor=blue&color=%23eee)
