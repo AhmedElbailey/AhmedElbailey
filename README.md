@@ -17,11 +17,15 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Self-taught Back-end Node.js / Spring Boot developer
+- Expertise in Express.js, Nest.js, Spring-Boot MVC, REST APIs, GraphQL APIs, SSR, MongoDB, PostgreSQL
+- NTI Intern - SOA and Microservices track
+- Currently learning:
+   1) Integration development (ECM) ==> App Connect, MQ Explorer, API Connect
+   1) Automation (IBM) ==> IBM BAW, Process Analysis
+   1) Red Hat system administration ==> System Administration 1, System Administration 2
+- Personal website [link](https://portfolio-adel.netlify.app/)
+- I’m currently open for a new job opportunity, this is [my resume](https://portfolio-adel.netlify.app/static/media/Ahmed%20Adel%20Mohamed.9313cef975f1e15113bb.pdf)
 
 <br><br>
 
@@ -113,7 +117,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/ahmed-adel-285077217/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Ahmed_Elbialy-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -121,7 +125,7 @@
 
 <li>
 <a href="mailto:ahmedelbialy148@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Ahmed_Elbialy-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -145,9 +149,3 @@
 <br>
 
 ---
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
